@@ -90,7 +90,7 @@ class _NewExpenseState extends State<NewExpense> {
                   controller: _amountController,
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
-                    prefixText: '\$ ',
+                    prefixText: '₹ ',
                     label: Text('Amount'),
                   ),
                 ),
