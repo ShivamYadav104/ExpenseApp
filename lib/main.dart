@@ -6,7 +6,11 @@ var kColorScheme = ColorScheme.fromSeed(
 );
 var kDarkColorScheme=ColorScheme.fromSeed(brightness:Brightness.dark,seedColor: Color.fromARGB(255, 5, 99, 125));
 void main() {
-  runApp(
+  // WidgetsFlutterBinding.ensureInitialized();
+  // SystemChrome.setPreferredOrientations([
+  //   DeviceOrientation.portraitUp,
+  // ]).then((fn){
+     runApp(
     MaterialApp(
       darkTheme: ThemeData().copyWith(
        colorScheme: kDarkColorScheme,
@@ -48,4 +52,5 @@ void main() {
       home: Expenses(),
     ),
   );
+  // });
 }
