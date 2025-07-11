@@ -13,5 +13,5 @@ A simple Flutter app to help users track their daily expenses efficiently. Users
 - Responsive UI for both Android and iOS
 
 ## 📸 Screenshots
-![EXP1](https://github.com/user-attachments/assets/e1638772-8e8f-4d68-8838-07a7dc64b2a5)
-![EXP2](https://github.com/user-attachments/assets/e4e614f1-ca3a-4e52-9a90-02a4371d7557)
+![EXP1](https://github.com/user-attachments/assets/e1638772-8e8f-4d68-8838-07a7dc64b2a5)  ![EXP2](https://github.com/user-attachments/assets/e4e614f1-ca3a-4e52-9a90-02a4371d7557)
+
