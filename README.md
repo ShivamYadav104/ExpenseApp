@@ -12,6 +12,3 @@ A simple Flutter app to help users track their daily expenses efficiently. Users
 - Chart to visualize weekly spending
 - Responsive UI for both Android and iOS
 
-## 📸 Screenshots
-![Home Screen](https://github.com/user-attachments/assets/e1638772-8e8f-4d68-8838-07a7dc64b2a5)  ![AddExpense Screen](https://github.com/user-attachments/assets/e4e614f1-ca3a-4e52-9a90-02a4371d7557)
-
