@@ -1,4 +1,5 @@
-# expense_tracker
+# 💰 Expense Tracker App
+
 [APK](https://drive.google.com/file/d/1RcUowOKArhKawgCiIJbPt8GPCZfM7nHX/view?usp=sharing)
 
 A simple Flutter app to help users track their daily expenses efficiently. Users can add, view, and delete expenses, with a visual chart for weekly spending.
